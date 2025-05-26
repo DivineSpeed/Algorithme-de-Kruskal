@@ -12,7 +12,7 @@ Ce projet est une application interactive pour visualiser et comprendre l'algori
 
 1. **Cloner ou télécharger ce dépôt**
    ```
-   git clone [URL_DU_DEPOT]
+   git clone [[URL_DU_DEPOT]](https://github.com/DivineSpeed/Algorithme-de-Kruskal-theorie-des-graphes-.git)
    ```
    ou téléchargez et décompressez le fichier ZIP du projet.
 
