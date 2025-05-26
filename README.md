@@ -12,7 +12,7 @@ Ce projet est une application interactive pour visualiser et comprendre l'algori
 
 1. **Cloner ou télécharger ce dépôt**
    ```
-  git clone https://github.com/DivineSpeed/Algorithme-de-Kruskal.git
+   git clone https://github.com/DivineSpeed/Algorithme-de-Kruskal.git
    ```
    ou téléchargez et décompressez le fichier ZIP du projet.
 
