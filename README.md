@@ -33,6 +33,11 @@ Pour lancer l'application principale :
 python application_kruskal.py
 ```
 
+## Exécution simplifiée (Windows)
+
+Pour une installation et exécution en un clic, utilisez simplement le fichier `lancer_kruskal.bat` inclus dans le projet.
+
+
 ## Structure du projet
 
 ### application_kruskal.py
